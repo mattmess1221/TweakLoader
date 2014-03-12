@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Minecraft"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/.gradle/caches/modules-2/files-2.1/com.mumfrey/liteloader/pb-4/c8046be6b4b6254f88bfc095dcb3433256a61203/Liteloader-pb-4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
